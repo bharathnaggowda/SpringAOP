@@ -1,0 +1,117 @@
+Mar 3, 2015 11:12:37 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@dad4feb: startup date [Tue Mar 03 23:12:37 PST 2015]; root of context hierarchy
+Mar 3, 2015 11:12:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/bharathgowda/Documents/workspace/cmpe275/SpringAOPExample/src/main/resources/spring.xml]
+
+Executing testA
+Failed to read file
+
+Mar 3, 2015 11:12:37 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@920d6b7: startup date [Tue Mar 03 23:12:37 PST 2015]; root of context hierarchy
+Mar 3, 2015 11:12:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/bharathgowda/Documents/workspace/cmpe275/SpringAOPExample/src/main/resources/spring.xml]
+
+Executing testB
+Surabhi shares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Bharath reads the file home/Surabhi/shared/SurabhiText.txt
+Before executing service method
+reading file home/Surabhi/shared/SurabhiText.txt
+Contents of the file-------->abcd
+
+Mar 3, 2015 11:12:37 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@1c6cc9c: startup date [Tue Mar 03 23:12:37 PST 2015]; root of context hierarchy
+Mar 3, 2015 11:12:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/bharathgowda/Documents/workspace/cmpe275/SpringAOPExample/src/main/resources/spring.xml]
+
+Executing testC
+Surabhi shares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Bharath reads the file home/Surabhi/shared/SurabhiText.txt
+Before executing service method
+reading file home/Surabhi/shared/SurabhiText.txt
+Contents of the file-------->abcd
+Bharath shares the file home/Surabhi/shared/SurabhiText.txt with Carl
+Before executing service method
+Carl reads the file home/Surabhi/shared/SurabhiText.txt
+Before executing service method
+reading file home/Surabhi/shared/SurabhiText.txt
+Contents of the file-------->abcd
+
+Mar 3, 2015 11:12:37 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@298eb7e0: startup date [Tue Mar 03 23:12:37 PST 2015]; root of context hierarchy
+Mar 3, 2015 11:12:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/bharathgowda/Documents/workspace/cmpe275/SpringAOPExample/src/main/resources/spring.xml]
+
+Executing testD
+Surabhi shares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Failed to share file
+
+Mar 3, 2015 11:12:37 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@dbe996d: startup date [Tue Mar 03 23:12:37 PST 2015]; root of context hierarchy
+Mar 3, 2015 11:12:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/bharathgowda/Documents/workspace/cmpe275/SpringAOPExample/src/main/resources/spring.xml]
+
+Executing testE
+Surabhi shares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Bharath shares the file home/Surabhi/shared/SurabhiText.txt with Carl
+Before executing service method
+Surabhi unshares the file home/Surabhi/shared/SurabhiText.txt with Carl
+Before executing service method
+Failed to read file
+
+Mar 3, 2015 11:12:37 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@70d1c9b5: startup date [Tue Mar 03 23:12:37 PST 2015]; root of context hierarchy
+Mar 3, 2015 11:12:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/bharathgowda/Documents/workspace/cmpe275/SpringAOPExample/src/main/resources/spring.xml]
+
+Executing testF
+Surabhi shares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Surabhi shares the file home/Surabhi/shared/SurabhiText.txt with Carl
+Before executing service method
+Carl shares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Surabhi unshares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Failed to read file
+
+Mar 3, 2015 11:12:37 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@5576b9ea: startup date [Tue Mar 03 23:12:37 PST 2015]; root of context hierarchy
+Mar 3, 2015 11:12:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/bharathgowda/Documents/workspace/cmpe275/SpringAOPExample/src/main/resources/spring.xml]
+
+Executing testG
+Surabhi shares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Bharath shares the file home/Surabhi/shared/SurabhiText.txt with Carl
+Before executing service method
+Surabhi unshares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Failed to Share the file
+
+Mar 3, 2015 11:12:38 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@7ad3f189: startup date [Tue Mar 03 23:12:38 PST 2015]; root of context hierarchy
+Mar 3, 2015 11:12:38 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/bharathgowda/Documents/workspace/cmpe275/SpringAOPExample/src/main/resources/spring.xml]
+
+Executing testH
+Surabhi shares the file home/Surabhi/shared/SurabhiText.txt with Bharath
+Before executing service method
+Failed to read file
+
+
+
+
+Result of test cases:
+testA: Pass
+testB: Pass
+testC: Pass
+testD: Pass
+testE: Pass
+testF: Pass
+testG: Pass
+testH: Pass
+
